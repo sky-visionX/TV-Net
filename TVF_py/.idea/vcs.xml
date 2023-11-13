@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/m2p" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/matlab2python" vcs="Git" />
+  </component>
+</project>
